@@ -5,7 +5,7 @@ import { useResponsive } from '../hooks/useResponsive'
 import { useReducedMotion } from '../hooks/useReducedMotion'
 import gsap from 'gsap'
 
-const DOWNLOAD_URL = 'https://download854.mediafire.com/44fj4kyey7dgXnxeRY8dnzjqq0fLeC1hqRFAM1u4oZ3VGnEtzflc7b5rsZv811shrHSZtwnuEAzqcJEVgmRx3OdAjyC3sASwziVae8EBGgfcsuCwgNFlcQBQIxj6i_p1oXmMYQ5iMmmpfw92_eXDNMxoXzNysYZLiV2ZBzfhUcu1/fsb7re6bf0d7gtq/Sero+Safe.apk'
+const DOWNLOAD_URL = 'https://github.com/m-bander/Sero/releases/tag/v1.0.0'
 
 export const Hero = () => {
   const { translations, dir } = useLanguage()
