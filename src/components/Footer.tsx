@@ -27,7 +27,7 @@ export const Footer = () => {
           <div>
             <nav className="flex flex-col gap-3">
               <a
-                href="#privacy-policy"
+                href="/privacy.html"
                 className="text-body-md text-on-surface-variant hover:text-on-surface transition-colors"
               >
                 {translations.footer.privacyPolicy}
